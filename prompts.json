@@ -1,0 +1,18 @@
+[
+  {
+    "name": "⚙️ Auto-Correct Math (Default)",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/AI-Studio-Prompt-Library/main/prompts/mathjax.txt"
+  },
+  {
+    "name": "🧑‍💻 מהנדס פרומפטים",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/AI-Studio-Prompt-Library/main/prompts/prompt-engineer.txt"
+  },
+  {
+    "name": "📱 ממיר לוואצפ",
+    "url":https://raw.githubusercontent.com/YOUR_USERNAME/AI-Studio-Prompt-Library/main/prompts/whatsapp-formatter.txt"
+  },
+  {
+    "name": "🧠 עוזר למידה למבחן",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/AI-Studio-Prompt-Library/main/prompts/study-assistant.txt"
+  }
+]
