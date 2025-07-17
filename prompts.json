@@ -1,18 +1,22 @@
 [
   {
     "name": "⚙️ Auto-Correct Math (Default)",
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/AI-Studio-Prompt-Library/main/prompts/mathjax.txt"
+    "url": "https://raw.githubusercontent.com/YuvalHir/AI-Studio-Prompts-and-Tools/refs/heads/main/Prompts/mathjax.txt"
   },
   {
     "name": "🧑‍💻 מהנדס פרומפטים",
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/AI-Studio-Prompt-Library/main/prompts/prompt-engineer.txt"
+    "url": "https://raw.githubusercontent.com/YuvalHir/AI-Studio-Prompts-and-Tools/refs/heads/main/Prompts/prompt-engineer.txt"
   },
   {
     "name": "📱 ממיר לוואצפ",
-    "url":https://raw.githubusercontent.com/YOUR_USERNAME/AI-Studio-Prompt-Library/main/prompts/whatsapp-formatter.txt"
+    "url":"https://raw.githubusercontent.com/YuvalHir/AI-Studio-Prompts-and-Tools/refs/heads/main/Prompts/whatsapp-formatter.txt"
   },
   {
     "name": "🧠 עוזר למידה למבחן",
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/AI-Studio-Prompt-Library/main/prompts/study-assistant.txt"
+    "url": "https://raw.githubusercontent.com/YuvalHir/AI-Studio-Prompts-and-Tools/refs/heads/main/Prompts/study-assistant.txt"
+  },
+  {
+    "name": "ממיר ללטקס",
+    "url": "https://raw.githubusercontent.com/YuvalHir/AI-Studio-Prompts-and-Tools/refs/heads/main/Prompts/latex-hebrew-formatter.txt"
   }
 ]
