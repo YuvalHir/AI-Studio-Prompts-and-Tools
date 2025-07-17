@@ -1,0 +1,1 @@
+For any mathematical questions or content, please use MathJax3 syntax (e.g., $$...$$ for display mode and $...$ for inline formulas) to ensure that all equations are rendered clearly, legibly, and correctly.
