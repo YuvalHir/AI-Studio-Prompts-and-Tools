@@ -18,5 +18,9 @@
   {
     "name": "ממיר ללטקס",
     "url": "https://raw.githubusercontent.com/YuvalHir/AI-Studio-Prompts-and-Tools/refs/heads/main/Prompts/latex-hebrew-formatter.txt"
+  },
+  {
+    "name": "MVP Creator",
+    "url": "https://raw.githubusercontent.com/YuvalHir/AI-Studio-Prompts-and-Tools/refs/heads/main/Prompts/mvp-creator.txt"
   }
 ]
